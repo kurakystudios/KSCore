@@ -1,0 +1,8 @@
+name: KSCore
+version: '${version}'
+main: studio.kuraky.kSCore.KSCore
+api-version: '26.2'
+load: STARTUP
+author: Kuraky Studio
+website: studio.kuraky.com
+description: Núcleo de servicios compartidos para plugins de Kuraky Studios.

@@ -1,0 +1,19 @@
+prefijo: "&8[&b<00c8ff>Core<0088ff>&8] &r"
+
+comun:
+  sin-permiso: "&cNo tienes permiso para hacer esto."
+  solo-jugadores: "&cSolo un jugador puede ejecutar este comando."
+  uso-incorrecto: "&cUso: &f%uso%"
+  jugador-no-encontrado: "&cJugador &f%jugador%&c no encontrado."
+  mundo-no-encontrado: "&cMundo &f%mundo%&c no encontrado."
+  error-interno: "&cError interno. Se ha notificado al staff."
+  cooldown: "&eEspera &f%restante%s&e antes de volver a usar este comando."
+
+core:
+  uso: "&aUsa /core recargar|debug|info|comandos"
+  recargado: "&aArchivo(s) recargado(s)."
+  debug-activado: "&aModo debug &lactivado&r&a."
+  debug-desactivado: "&7Modo debug &odesactivado&r&7."
+  info-cabecera: "&8&m----&r &b<00c8ff>KSCore<0088ff> &8&m----"
+  info-linea: "&7» %clave%: &f%valor%"
+  archivo-desconocido: "&cArchivo desconocido: &f%archivo%"
